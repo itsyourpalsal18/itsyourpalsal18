@@ -53,7 +53,6 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/salbeltran/)
 - 📫 Email: itsyourpalsal18@gmail.com
 
 ---
