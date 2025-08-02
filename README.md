@@ -1,18 +1,22 @@
-# 👋 Hi, I'm **Salvador Beltran**  
-🎖️ **U.S. Army SIGINT Analyst** | 💻 Aspiring Software Developer | ☁️ Cloud & Cybersecurity Learner  
-📍 Currently stationed at JBLM | Open to remote tech internships and mentorship opportunities
+# 👋 Hi, I'm **Salvador Beltran**
+
+🎖️ **U.S. Army SIGINT Analyst** | 💻 Full Stack Developer | ☁️ Cloud & Cybersecurity Enthusiast  
+📍 Stationed at JBLM | Actively exploring remote tech internships & mentorship
 
 ---
 
 ## 🧠 About Me
-- Active-duty U.S. Army Specialist (Signals Intelligence Analyst, 35N)  
-- Graduate of the **UCF Full Stack Coding Boot Camp**
-- Expanding into cloud computing and cybersecurity with AWS and Harvard CS50x
-- Building real-world, mission-driven applications with clean code and scalable architecture
+
+- Active-duty U.S. Army Specialist (**35N Signals Intelligence Analyst**) with a mission-first mindset  
+- Graduate of the **UCF Full Stack Coding Boot Camp**  
+- Currently expanding into **cloud computing** (AWS) and **cybersecurity** (CS50x & CompTIA Security+)  
+- Passionate about building **scalable, secure, and impactful web applications**  
+- Seeking to bridge national defense experience with tech innovation through clean code and real-world utility
 
 ---
 
 ## 🔧 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,23 +32,26 @@
 ---
 
 ## 📜 Certifications
-- ✅ UCF Coding Boot Camp Certification *(completed)*
-- ☁️ AWS Cloud Practitioner *(in progress)*
-- 🎓 Harvard CS50x *(in progress)*
-- 🛡️ CompTIA Security+ *(planned)*
-- 🧰 Google IT Support Professional *(planned)*
+
+- 🎓 **UCF Full Stack Coding Boot Camp** – *Completed*  
+- ☁️ **AWS Certified Cloud Practitioner** – *In Progress*  
+- 💻 **Harvard CS50x: Introduction to Computer Science** – *In Progress*  
+- 🛡️ **CompTIA Security+ (SY0-701)** – *Planned* 
+- 🧪 **CompTIA CySA+ (CS0-003)** – *Planned*  
+- 🧰 **Google IT Support Professional Certificate** – *Planned*
 
 ---
 
-## 📂 Projects *(more coming soon)*
+## 📂 Highlighted Projects
 
-| Project | Tech Stack | Summary |
-|--------|------------|---------|
-| **VetConnect** | React, Node, Express, MongoDB | A social app connecting veterans for resource-sharing and mentorship. |
-| **OpsWeather** | Python, Flask, OpenWeather API | A mission-ready weather dashboard for field planning. |
-| **CS50 Finance Tool** | Python, C, SQL | Budgeting app built as part of Harvard’s CS50 final project. |
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **VetConnect** | Social platform connecting veterans for mentorship and resources. | MERN (React, Node, MongoDB) | [GitHub](#) • [Live](#) |
+| **OpsWeather** | Tactical weather dashboard for mission planning. | Python, Flask, OpenWeather API | [GitHub](#) • [Live](#) |
+| **CS50 Finance Tool** | Personal budgeting & stock tracker built in CS50. | Python, SQL, C | [GitHub](#) |
 
 ---
+
 
 ## 📈 GitHub Stats
 ![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyourpalsal18&show_icons=true&theme=tokyonight&hide=contribs,prs)
