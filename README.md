@@ -52,9 +52,8 @@
 
 ---
 
-
 ## 📈 GitHub Stats
-![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyourpalsal18&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyourpalsal18&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyourpalsal18&layout=compact&theme=tokyonight)
 
 ---
