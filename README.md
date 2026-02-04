@@ -34,8 +34,7 @@
 ## 📜 Certifications
 
 - 🎓 **UCF Full Stack Coding Boot Camp** – *Completed*  
-- ☁️ **AWS Certified Cloud Practitioner** – *In Progress*  
-- 💻 **Harvard CS50x: Introduction to Computer Science** – *In Progress*  
+- 🌐 CompTIA Network+ (N10-009)** – *Planned*
 - 🛡️ **CompTIA Security+ (SY0-701)** – *Planned* 
 - 🧪 **CompTIA CySA+ (CS0-003)** – *Planned*  
 - 🧰 **Google IT Support Professional Certificate** – *Planned*
