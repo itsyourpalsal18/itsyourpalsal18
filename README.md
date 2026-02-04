@@ -52,8 +52,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyourpalsal18&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyourpalsal18&layout=compact&theme=tokyonight)
+![Sal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyourpalsal18&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyourpalsal18&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
